@@ -24,31 +24,9 @@
 * [Conclusion](#Conclusion)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Project Overview
 
-This project is an end-to-end Business Intelligence solution built using Microsoft Power BI Desktop. It demonstrates advanced data modeling, DAX measureS, data transformation using Power Query, and performance-focused dashboard design.
+This project is an end-to-end Business Intelligence solution built using Microsoft Power BI  It demonstrates advanced data modeling, DAX measures, data transformation using Power Query, and performance-focused dashboard design.
 
 The solution converts raw transactional sales data into a scalable analytical model that supports KPI monitoring, profitability analysis, trend evaluation, and regional performance comparison.
 
@@ -120,7 +98,7 @@ Loaded all datasets into Power BI Power Query.
 
     a. Total Customers
  
-    b. Total Sales (Revenue), Total Customers, Total Cost, Profit.
+    b. Total Sales (Revenue), Total Cost, Profit.
    
     c. Sales Date Hierarchy(Year, Quater, Month, Day).
     
@@ -162,7 +140,7 @@ Loaded all datasets into Power BI Power Query.
 
 2. Product Analysis
 
-* Top N Products (Dynamic ranking)
+* Top  Products (Dynamic ranking)
 
 * Profit by Income level
 
@@ -185,7 +163,7 @@ Loaded all datasets into Power BI Power Query.
 
 ## Key Insights 
 
-* Business generated Total Revenue: ₦3.1M, Total Cost: ₦2.17M, Total Profit: ₦931,90 across 250 Customers
+* Business generated Total Revenue: ₦3.1M, Total Cost: ₦2.17M, Total Profit: ₦931,905 across 250 Customers
 
 * Observed seasonal spikes in sales (2020, 2021, 2022)
 
