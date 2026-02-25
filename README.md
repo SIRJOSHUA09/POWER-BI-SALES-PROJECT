@@ -15,6 +15,8 @@
 
 * [Dashboard Features](#Dashboard-Features)
 
+* [Dashboard snapshot](#Dashboard-snapshot)
+
 * [Key Insights](#Key-Insights)
 
 * [Tools Used](#Tools-used)
